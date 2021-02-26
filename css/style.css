@@ -24,3 +24,13 @@ body {
 #logo{
     margin-top: 250px;
 }
+
+/*Services Section*/
+#services-section{
+    background-image: url('../backgrounds/s_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
