@@ -64,3 +64,8 @@ body {
     background-repeat: no-repeat;
     height: 80vh;
 }
+
+input[type=text],input[type=email],#comment, #mc_embed_signup, #mce-MESSAGE{
+    background: transparent;
+    color: #ffffff;
+}
