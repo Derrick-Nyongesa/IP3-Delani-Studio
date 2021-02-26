@@ -32,7 +32,7 @@ git clone https://github.com/Derrick-Nyongesa/IP3-Delani-Studio.git
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
-* Mail chimp API does may function properly.
+* Mail chimp API may not function properly.
 
 
 ## Contact Information 
