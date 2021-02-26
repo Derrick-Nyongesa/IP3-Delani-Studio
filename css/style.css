@@ -55,3 +55,12 @@ body {
 .description-3{
     display: none;
 }
+
+/*Contact Us*/
+#contact-us{
+    background-image: url('../backgrounds/c_image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
