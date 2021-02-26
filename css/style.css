@@ -2,6 +2,11 @@ body {
     font-family: 'Nunito Sans', sans-serif;
 }
 
+h1,
+h2{
+    font-weight: bold;
+}
+
 /*Header Page*/
 #header-page{
     background-image: url('../backgrounds/h_img.jpg');

@@ -2,17 +2,17 @@
 $("#design").click(function() {
     $(".description").toggle("slow");
     $("#img-1").toggle("slow");
-  });
+});
   
-  $("#development").click(function() {
+$("#development").click(function() {
     $(".description-2").toggle("slow");
     $("#img-2").toggle("slow");
-  });
+});
   
-  $("#product").click(function() {
+$("#product").click(function() {
     $(".description-3").toggle("slow");
     $("#img-3").toggle("slow");
-  });
+});
 
 
   //Portfolio
@@ -87,4 +87,4 @@ $("form").submit(function(event){
      myModal.show();
    }
    
- });
+});
