@@ -69,3 +69,20 @@ input[type=text],input[type=email],#comment, #mc_embed_signup, #mce-MESSAGE{
     background: transparent;
     color: #ffffff;
 }
+
+#mce-EMAIL, #mce-NAME, #mce-MESSAGE {
+    border: solid grey 1px !important;
+}
+
+.form-control::-webkit-input-placeholder{
+    color: #ffffff;
+}
+
+/*Portfolio Section*/
+.portfolio{
+    width: 80%;
+    height: 80%;
+    border: 2px solid #fff;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
