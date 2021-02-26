@@ -56,6 +56,10 @@ body {
     display: none;
 }
 
+#what-we-do h4{
+    font-weight: bold;
+}
+
 /*Contact Us*/
 #contact-us{
     background-image: url('../backgrounds/c_image.jpg');
@@ -70,8 +74,9 @@ input[type=text],input[type=email],#comment, #mc_embed_signup, #mce-MESSAGE{
     color: #ffffff;
 }
 
+
 #mce-EMAIL, #mce-NAME, #mce-MESSAGE {
-    border: solid grey 1px !important;
+    border: solid white 1px !important;
 }
 
 .form-control::-webkit-input-placeholder{
@@ -113,3 +118,4 @@ input[type=text],input[type=email],#comment, #mc_embed_signup, #mce-MESSAGE{
   .portfolio-8 {
     position: relative;
   }
+
