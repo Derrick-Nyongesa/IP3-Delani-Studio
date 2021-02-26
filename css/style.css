@@ -11,3 +11,16 @@ body {
     text-align:center;
     height: 100vh;
 }
+
+#header-page h1{
+    padding: 2px;
+    margin: 5px;
+}
+
+#header-page{
+    padding: 2px;
+}
+
+#logo{
+    margin-top: 250px;
+}
