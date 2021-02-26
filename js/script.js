@@ -14,7 +14,7 @@ $("#design").click(function() {
     $("#img-3").toggle("slow");
   });
 
-/*
+
   //Portfolio
 $('.work1-overlay').hide();
 $(".work2-overlay").hide();
