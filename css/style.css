@@ -43,3 +43,9 @@ body {
 .what-we-do{
     padding-bottom: 20px;
 }
+
+#design,
+#development,
+#product{
+    cursor: pointer;
+}
