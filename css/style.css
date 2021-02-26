@@ -49,3 +49,9 @@ body {
 #product{
     cursor: pointer;
 }
+
+.description,
+.description-2,
+.description-3{
+    display: none;
+}
