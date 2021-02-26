@@ -30,11 +30,6 @@ git clone https://github.com/Derrick-Nyongesa/IP3-Delani-Studio.git
 [Derrick Nyongesa https://derrick-nyongesa.github.io/ip3-delani-studio/](https://derrick-nyongesa.github.io/ip3-delani-studio/)
 
 
-## Known Bugs
-* The site is not responsive enough for some devices. 
-* Mail chimp API may not function properly.
-
-
 ## Contact Information 
 
 Any query? Contact me at [nyongesaderrick@gmail.com]
