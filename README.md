@@ -5,7 +5,7 @@ Derrick Nyongesa
 
 
 ## Description of project
-This is a website for a fictional company called Delani Studio. This website layout has been designed using **Boostrap** and **Custom CSS**. The page interraction has been achieved using **jQuery** where you can toggle between the *What we do* icons to see the desciptions. Additionally, this website uses mail chimp to track all emails and messages from users.
+This is a website for a fictional company called Delani Studio. This website layout has been designed using **Bootstrap** and **Custom CSS**. The page interraction has been achieved using **jQuery** where you can toggle between the *What we do* icons to see the desciptions. Additionally, this website uses mail chimp to track all emails and messages from users.
 
 
 ## Project setup instructions
