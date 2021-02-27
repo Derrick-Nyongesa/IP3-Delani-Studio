@@ -69,22 +69,21 @@ $(".portfolio-8").mouseenter(function() {
 //Contact-us section
 $("form").submit(function(event){
     event.preventDefault();
-   var name = $("input#mce-NAME").val();
-   var email = $("input#mce-EMAIL").val();
-   var message = $("textarea#mce-MESSAGE").val();
-   var myModal = new bootstrap.Modal(document.getElementById('modal'), {backdrop: true});
+  var name = $("input#mce-NAME").val();
+  var email = $("input#mce-EMAIL").val();
+  var message = $("textarea#mce-MESSAGE").val();
+  var myModal = new bootstrap.Modal(document.getElementById('modal'), {backdrop: true});
  
-   if (name && email){
-     // alert (name + ", we have received your message. Thank you for reaching out to us.");
-     $("#modal-body").html(name + ", we have received your message. Thank you for reaching out to us.");
-     $("#modalLabel").html("Message received");
-     myModal.show();
-   }
-   else {
-     // alert("Please enter your name and email!");
-     $("#modal-body").html("Please enter your name and email!");
-     $("#modalLabel").html("Invalid input!");
-     myModal.show();
-   }
+  if (name && email){
+    // alert (name + ", we have received your message. Thank you for reaching out to us.");
+    $("#modal-body").html(name + ", we have received your message. Thank you for reaching out to us.");
+    $("#modalLabel").html("Message received");
+    myModal.show();
+  } else {
+    // alert("Please enter your name and email!");
+    $("#modal-body").html("Please enter your name and email!");
+    $("#modalLabel").html("Invalid input!");
+    myModal.show();
+  }
    
 });
